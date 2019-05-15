@@ -1,0 +1,48 @@
+
+fitxeratlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 57
+  size: 852, 480
+  orig: 852, 480
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 912, 494
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+left_wall
+  rotate: false
+  xy: 856, 7
+  size: 26, 530
+  orig: 26, 530
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 2, 2
+  size: 128, 25
+  orig: 128, 25
+  offset: 0, 0
+  index: -1
+right_wall
+  rotate: false
+  xy: 884, 7
+  size: 26, 530
+  orig: 26, 530
+  offset: 0, 0
+  index: -1
+roof
+  rotate: false
+  xy: 2, 29
+  size: 749, 26
+  orig: 749, 26
+  offset: 0, 0
+  index: -1
